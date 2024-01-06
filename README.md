@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 
-- 💻 I help Tech companies to get documentation done ! 
+- 💻 I'm a Tech Writer, Translator, and ITSM Consultant based in Paris. 
   
-- 🤝 I’m currently looking to extend my knowledge here on GitHub
-  & to collaborate on great projects
+- 🤝 I look forward to extending my knowledge here on GitHub & to collaborate on great projects.
    
-- 💬 Ask me about ITIL Practices ! 
+- 💬 Ask me about ITIL Practices! 
 
 
